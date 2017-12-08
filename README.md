@@ -1,27 +1,27 @@
-# MyApp
+# Angular4×csv読み込みのサンプルコード
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
+Angular4×csv読み込みのサンプルコードです。
 
-## Development server
+csv読み込みのライブラリであるPapaParseを利用しています。
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### 参考
 
-## Code scaffolding
+* https://www.npmjs.com/package/ngx-papaparse
+* http://papaparse.com/
+* http://www.kasai.fm/wiki/rfc4180jp
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+>PapaParse
+>
+>Copyright (c) 2015 Matthew Holt
+>
+>Released under the MIT license
+>
+>https://github.com/mholt/PapaParse/blob/master/LICENSE
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+>ngx-papaparse
+>
+>Copyright (c) 2017 Albert Haff
+>
+>Released under the MIT license
+>
+>https://github.com/Alberthaff/ngx-papaparse/blob/master/LICENSE.m
